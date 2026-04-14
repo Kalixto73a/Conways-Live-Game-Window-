@@ -20,7 +20,7 @@ The game only has 4 rules:
 
 ### Running
 
-1. Clone the repository with this code: `git clone https://github.com/Kalixto73a/Conway-s-Game-of-Life`
+1. Clone the repository with this code: `git clone https://github.com/Kalixto73a/Conways-Live-Game-Window-`
 2. Then got to: `Conways-Live-Game-Window-/src/ConwaysLifeGame/Conway.java`
 3. And then run it.
 4. Enjoy and have fun.
